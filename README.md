@@ -1,1 +1,1 @@
-# github-exercise
+# INM 420 Github In-class Exercise
